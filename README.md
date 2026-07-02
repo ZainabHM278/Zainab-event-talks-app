@@ -39,3 +39,6 @@ A beautiful web application built using Python Flask, vanilla HTML, CSS, and Jav
 - [templates/index.html](file:///Users/zainabalmahel/Downloads/agy-cli-projects/bq-releases-notes/templates/index.html) - Main layout structure containing the release stream feed wrapper and the X Composer template.
 - [static/css/styles.css](file:///Users/zainabalmahel/Downloads/agy-cli-projects/bq-releases-notes/static/css/styles.css) - Premium visual styles containing color schemes, hover behaviors, responsive queries, and progress rings.
 - [static/js/app.js](file:///Users/zainabalmahel/Downloads/agy-cli-projects/bq-releases-notes/static/js/app.js) - Core application logic dealing with XML/HTML parsing, active search, selection states, and composer computations.
+
+
+\n---\n\n*This project was built as part of the Day 2 Assignment for the 5-Day AI Agents: Intensive Vibe Coding Course with Google.*
