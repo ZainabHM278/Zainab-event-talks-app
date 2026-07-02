@@ -41,4 +41,8 @@ A beautiful web application built using Python Flask, vanilla HTML, CSS, and Jav
 - [static/js/app.js](file:///Users/zainabalmahel/Downloads/agy-cli-projects/bq-releases-notes/static/js/app.js) - Core application logic dealing with XML/HTML parsing, active search, selection states, and composer computations.
 
 
-\n---\n\n*This project was built as part of the Day 2 Assignment for the 5-Day AI Agents: Intensive Vibe Coding Course with Google.*
+---
+
+## Disclaimer
+
+This project was built as part of the **Day 2 Assignment** from the **5-Day AI Agents: Intensive Vibe Coding Course with Google**.
